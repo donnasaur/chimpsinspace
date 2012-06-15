@@ -7,6 +7,6 @@ Template: comicpress
 
 @import url("../comicpress/style.css");
 
-#site-title a {
-    color: #ffffff;
+body {
+    background-color: #05051d;
 }

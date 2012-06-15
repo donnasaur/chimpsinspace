@@ -1,0 +1,12 @@
+/*
+Theme Name: Comicpress Child
+Description: Child theme for the Comicpress theme 
+Author: Donna Almendrala
+Template: comicpress
+*/
+
+@import url("../comicpress/style.css");
+
+#site-title a {
+    color: #009900;
+}

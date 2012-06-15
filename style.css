@@ -1,8 +1,11 @@
 /*
 Theme Name: Comicpress Child
+Theme URI: http://donnaalmendrala.name
 Description: Child theme for the Comicpress theme 
 Author: Donna Almendrala
+Author URI: http://donnaalmendrala.name/about.php
 Template: comicpress
+Version: 0.1.0
 */
 
 @import url("../comicpress/style.css");
@@ -10,3 +13,4 @@ Template: comicpress
 body {
     background-color: #05051d;
 }
+

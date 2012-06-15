@@ -15,7 +15,7 @@ body {
     color: #ffffff;
 }
 
-body a {
+body a, body a:visited {
 
     color: #fff200;
 }

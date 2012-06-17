@@ -70,6 +70,9 @@ body.custom-background {
 
     text-transform: none;
     background: transparent;
+
+    height: 32px;
+    margin: 10px auto;
 }
 
 #menu-sections ul, #menu-sections li, #menu-sections a {
@@ -111,7 +114,7 @@ li#menu-item-48 {
     height: 32px;
 }
 
-#menu-item-60 a {
+#menu-item-48 a {
 
     background: url('images/sprites.png') 0 0 no-repeat;
 }

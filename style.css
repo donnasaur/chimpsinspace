@@ -38,8 +38,8 @@ body.custom-background {
 #header {
 
     width: 600px;
-    height: 120px;
-    background: url('images/title_header.png');
+    height: 220px;
+    background: url('images/sprites.png');
 }
 
 #header h1 a {

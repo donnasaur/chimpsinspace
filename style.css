@@ -266,6 +266,8 @@ div.nav {
     height: 32px;
 
     margin: 5px 0 0 0;
+
+    float: none;
 }
 
 div.nav a {

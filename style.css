@@ -16,7 +16,7 @@ body {
     font-family: "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 }
 
-a, a:visited {
+a, a:visited, a:link {
 
     color: #fff200;
 }

@@ -373,10 +373,6 @@ div#sidebar-left {
 div.post { 
 
     display: none;
-    width: 600px;
-    background: #ffc20e;
-
-    padding: 1px;
 }
 
 div.post-content {
@@ -411,4 +407,14 @@ div.entry {
 div#comment-wrapper {
 
     display: none;
+}
+
+.shadow {
+   -moz-box-shadow: 3px 3px 4px #464646;
+   -webkit-box-shadow: 3px 3px 4px #464646;
+   box-shadow: 3px 3px 4px #464646;
+   /* For IE 8 */
+   -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#464646')";
+   /* For IE 5.5 - 7 */
+   filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#464646');
 }

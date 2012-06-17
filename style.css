@@ -280,6 +280,7 @@ div.nav {
 div.nav a {
 
     display: block;
+    float: none;
 
     font-size: 0;
     color: transparent;
@@ -290,16 +291,22 @@ div.nav a {
 
 div.nav > div.nav-first {
 
+    float: none;
+
     width: 43px;
     height: 24px;
 }
 
 div.nav > div.nav-first a {
 
+    float: none;
+
     background: url('images/sprites.png') -55px -70px no-repeat;
 }
 
 div.nav > div.nav-previous {
+
+    float: none;
 
     top: 0;
     left: 70px;
@@ -309,6 +316,8 @@ div.nav > div.nav-previous {
 }
 
 div.nav > div.nav-previous a {
+
+    float: none;
 
     background: url('images/sprites.png') 0px -70px no-repeat;
 }

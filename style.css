@@ -260,6 +260,13 @@ div#comic-wrap {
     padding: 15px 0 12px 0;
 }
 
+div#content-wrapper > div#subcontent-wrapper > div#content {
+
+    width: 600px;
+    padding: 0;
+    margin: 0;
+}
+
 div.nav {
  
     width: 600px;

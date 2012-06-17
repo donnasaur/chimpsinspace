@@ -99,6 +99,7 @@ div.menunav a {
     display: block;
 
     font-size: 0;
+    padding: 0;
 
     width: 100%;
     height: 100%;
@@ -119,6 +120,13 @@ div.menunav > .menunav-prev a {
 div.menunav > .menunav-next {
 
     float: right;
+    width: 23px;
+    height: 24px;
+}
+
+div.menunav > .menunav-next a {
+
+    background: url('images/sprites.png') -25px -70px no-repeat;
 }
 
 #menu-sections ul, #menu-sections li, #menu-sections a {

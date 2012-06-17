@@ -301,6 +301,11 @@ div.nav > div.nav-first a {
     background: url('images/sprites.png') -57px -70px no-repeat;
 }
 
+div.nav > div.nav-first a:hover {
+
+    background: url('images/sprites.png') -57px -96px no-repeat;
+}
+
 div.nav > div.nav-previous {
 
     float: left;
@@ -314,6 +319,11 @@ div.nav > div.nav-previous {
 div.nav > div.nav-previous a {
 
     background: url('images/sprites.png') 0px -70px no-repeat;
+}
+
+div.nav > div.nav-previous a:hover {
+
+    background: url('images/sprites.png') 0px -96px no-repeat;
 }
 
 div.nav > div.nav-next {
@@ -330,6 +340,12 @@ div.nav > div.nav-next a {
 
     background: url('images/sprites.png') -28px -70px no-repeat;
 }
+
+div.nav > div.nav-next a:hover {
+
+    background: url('images/sprites.png') -28px -96px no-repeat;
+}
+
 div.nav > div.nav-last {
 
     float: right;
@@ -341,6 +357,11 @@ div.nav > div.nav-last {
 div.nav > div.nav-last a {
 
     background: url('images/sprites.png') -101px -70px no-repeat;
+}
+
+div.nav > div.nav-last a:hover {
+
+    background: url('images/sprites.png') -101px -96px no-repeat;
 }
 
 div#sidebar-left {

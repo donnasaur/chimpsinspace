@@ -39,6 +39,9 @@ body.custom-background {
 
     width: 452px;
     height: 154px;
+
+    margin: 0 auto;
+
     background: url('images/sprites.png') 0 -120px no-repeat;
 }
 

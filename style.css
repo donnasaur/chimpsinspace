@@ -259,3 +259,18 @@ div#comic-wrap {
     background: #ffc20e;
     padding: 15px 0 15px 0;
 }
+
+div#sidebar-left {
+
+    display: none;
+}
+
+div.post-content {
+
+    display: none;
+}
+
+div#comment-wrapper {
+
+    display: none;
+}

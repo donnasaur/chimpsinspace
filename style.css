@@ -375,6 +375,11 @@ div.post {
     display: none;
 }
 
+div#blogheader {
+
+    display: none;
+}
+
 div.post-content {
 
     background: #ffffff;

@@ -118,6 +118,11 @@ div.menunav > .menunav-prev a {
     background: url('images/sprites.png') 0 -70px no-repeat;
 }
 
+div.menunav > .menunav-prev a:hover {
+
+    background: url('images/sprites.png') 0 -95px no-repeat;
+}
+
 div.menunav > .menunav-next {
 
     float: right;
@@ -128,6 +133,11 @@ div.menunav > .menunav-next {
 div.menunav > .menunav-next a {
 
     background: url('images/sprites.png') -28px -70px no-repeat;
+}
+
+div.menunav > .menunav-next a:hover {
+
+    background: url('images/sprites.png') -28px -95px no-repeat;
 }
 
 #menu-sections ul, #menu-sections li, #menu-sections a {
@@ -176,6 +186,11 @@ li#menu-item-48 {
     background: url('images/sprites.png') 0 0 no-repeat;
 }
 
+#menu-item-48 a:hover {
+
+    background: url('images/sprites.png') 0 -37px no-repeat;
+}
+
 /* Archive Menu Item */
 
 li#menu-item-60 {
@@ -190,6 +205,11 @@ li#menu-item-60 {
 #menu-item-60 a {
 
     background: url('images/sprites.png') -103px  0 no-repeat;
+}
+
+#menu-item-60 a {
+
+    background: url('images/sprites.png') -103px -37px no-repeat;
 }
 
 /* About Menu Item */
@@ -208,6 +228,11 @@ li#menu-item-49 {
     background: url('images/sprites.png') -247px  0 no-repeat;
 }
 
+#menu-item-49 a {
+
+    background: url('images/sprites.png') -247px  -37px no-repeat;
+}
+
 /* Store Menu Item */
 
 li#menu-item-62 {
@@ -224,3 +249,7 @@ li#menu-item-62 {
     background: url('images/sprites.png') -363px  0 no-repeat;
 }
 
+#menu-item-62 a:hover {
+
+    background: url('images/sprites.png') -363px  -37px no-repeat;
+}

@@ -53,6 +53,13 @@ body.custom-background {
     display: none;
 }
 
+.menu {
+
+    display: block;
+    position: relative;
+}
+
+
 #menubar-wrapper {
 
     text-transform: none;

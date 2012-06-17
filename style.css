@@ -177,7 +177,7 @@ li#menu-item-48 {
 li#menu-item-60 {
 
     top: 0;
-    left: 176px; 
+    left: 111px; 
 
     width: 133px;
     height: 32px;
@@ -186,4 +186,19 @@ li#menu-item-60 {
 #menu-item-60 a {
 
     background: url('images/sprites.png') -103px  0 no-repeat;
+}
+
+
+li#menu-item-49 {
+
+    top: 0;
+    left: 140px; 
+
+    width: 103px;
+    height: 32px;
+}
+
+#menu-item-49 a {
+
+    background: url('images/sprites.png') -247px  0 no-repeat;
 }

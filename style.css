@@ -120,7 +120,7 @@ div.menunav > .menunav-prev a {
 
 div.menunav > .menunav-prev a:hover {
 
-    background: url('images/sprites.png') 0 -94px no-repeat;
+    background: url('images/sprites.png') 0 -96px no-repeat;
 }
 
 div.menunav > .menunav-next {
@@ -137,7 +137,7 @@ div.menunav > .menunav-next a {
 
 div.menunav > .menunav-next a:hover {
 
-    background: url('images/sprites.png') -28px -94px no-repeat;
+    background: url('images/sprites.png') -28px -96px no-repeat;
 }
 
 #menu-sections ul, #menu-sections li, #menu-sections a {

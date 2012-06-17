@@ -29,3 +29,8 @@ body.custom-background {
     background-position: top center;
     background-attachment: fixed;
 }
+
+.page {
+
+    width: 600px;
+}

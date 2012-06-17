@@ -318,9 +318,9 @@ div.nav > div.nav-previous a {
 
 div.nav > div.nav-next {
 
-    //float: left;
+    float: left;
 
-    margin: 0 0 0 507px;
+    margin: 0 0 0 468px;
 
     width: 23px;
     height: 24px;
@@ -332,9 +332,9 @@ div.nav > div.nav-next a {
 }
 div.nav > div.nav-last {
 
-    //float: left;
+    float: left;
 
-    margin: 0 0 0 563px;
+    margin: 0 0 0 562px;
 
     width: 43px;
     height: 24px;

@@ -370,12 +370,19 @@ div#sidebar-left {
     display: none;
 }
 
-/*
+div#subcontent-wrapper {
+
+    width: 600px;
+    background: #ffc20e;
+}
+
 div.post-content {
 
-    display: none;
+    background: #ffffff;
+    margin: 15px;
+    width: 570px;
 }
-*/
+
 div#comment-wrapper {
 
     display: none;

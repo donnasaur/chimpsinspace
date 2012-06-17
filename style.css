@@ -383,6 +383,8 @@ div.post-content {
     background: #ffffff;
     margin: 15px;
     width: 570px;
+
+    color: #000000;
 }
 
 div.page { 
@@ -391,6 +393,13 @@ div.page {
     background: #ffc20e;
 
     padding: 1px;
+
+    color: #000000;
+}
+
+div.entry a, div.entry a:visited, div.entry a:link {
+
+    color: #0072bc;
 }
 
 div#comment-wrapper {

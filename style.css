@@ -30,7 +30,7 @@ body.custom-background {
     background-attachment: fixed;
 }
 
-.page {
+#page {
 
     width: 600px;
 }

@@ -270,9 +270,9 @@ div#content-wrapper > div#subcontent-wrapper > div#content {
 div.nav {
  
     width: 600px;
-    height: 32px;
+    height: 24px;
 
-    margin: 5px 0 0 0;
+    margin: 13px 0 0 0;
 
     float: none;
 }
@@ -297,6 +297,20 @@ div.nav > div.nav-first {
 div.nav > div.nav-first a {
 
     background: url('images/sprites.png') -55px -70px no-repeat;
+}
+
+div.nav > div.nav-previous {
+
+    top: 0;
+    left: 70px;
+
+    width: 23px;
+    height: 24px;
+}
+
+div.nav > div.nav-previous a {
+
+    background: url('images/sprites.png') 0px -70px no-repeat;
 }
 
 div#sidebar-left {

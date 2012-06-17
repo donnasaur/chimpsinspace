@@ -59,7 +59,7 @@ body.custom-background {
     background: transparent;
 }
 
-menu-sections ul, #menu-sections li, #menu-sections a {
+#menu-sections ul, #menu-sections li, #menu-sections a {
     
     display: block;
     position: relative;
@@ -89,7 +89,7 @@ menu-sections ul, #menu-sections li, #menu-sections a {
 	height: 100%;
 }
 
-#menu-item-60 li {
+#menu-item-48 li {
 
     top: 0;
     left: 0;

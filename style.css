@@ -35,7 +35,7 @@ body.custom-background {
     width: 600px;
 }
 
-#header {
+#header, #header h1 a {
 
     width: 600px;
 }

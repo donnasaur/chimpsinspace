@@ -42,7 +42,7 @@ body.custom-background {
 
     margin: 0 auto;
 
-    background: url('images/sprites.png') 0 -120px no-repeat;
+    background: url('images/sprites.png') -5px -120px no-repeat;
 }
 
 #header h1, #header h1 a {
@@ -65,8 +65,9 @@ body.custom-background {
     position: relative;
 
     float: none;
-    width: 462px;
+    width: 472px;
 
+    top: -1px;
     margin: 0 auto;
 }
 
@@ -80,7 +81,7 @@ body.custom-background {
     text-transform: none;
     background: transparent;
 
-    height: 32px;
+    height: 31px;
     margin: 10px auto;
 }
 
@@ -164,7 +165,7 @@ div.menunav > .menunav-next a {
 li#menu-item-48 {
 
     top: 0;
-    left: 0;
+    left: 5px;
 
     width: 94px;
     height: 32px;
@@ -180,7 +181,7 @@ li#menu-item-48 {
 li#menu-item-60 {
 
     top: 0;
-    left: 111px; 
+    left: 108px; 
 
     width: 133px;
     height: 32px;
@@ -196,7 +197,7 @@ li#menu-item-60 {
 li#menu-item-49 {
 
     top: 0;
-    left: 261px; 
+    left: 253px; 
 
     width: 103px;
     height: 32px;
@@ -212,7 +213,7 @@ li#menu-item-49 {
 li#menu-item-62 {
 
     top: 0;
-    left: 372px; 
+    left: 371px; 
 
     width: 97px;
     height: 32px;

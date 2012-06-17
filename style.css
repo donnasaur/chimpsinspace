@@ -410,11 +410,11 @@ div#comment-wrapper {
 }
 
 .shadow {
-   -moz-box-shadow: 3px 3px 4px #464646;
-   -webkit-box-shadow: 3px 3px 4px #464646;
-   box-shadow: 3px 3px 4px #464646;
+   -moz-box-shadow: 3px 3px 4px #000000;
+   -webkit-box-shadow: 3px 3px 4px #000000;
+   box-shadow: 3px 3px 4px #000000;
    /* For IE 8 */
-   -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#464646')";
+   -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
    /* For IE 5.5 - 7 */
-   filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#464646');
+   filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000)";
 }

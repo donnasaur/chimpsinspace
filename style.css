@@ -45,7 +45,7 @@ body.custom-background {
     background: url('images/sprites.png') 0 -120px no-repeat;
 }
 
-#header h1 a {
+#header h1, #header h1 a {
 
     display: block;
     font-size: 0;

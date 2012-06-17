@@ -11,7 +11,7 @@ Version: 0.1.0
 @import url("../comicpress/style.css");
 
 body {
-    background-color: #05051d;
+   
     color: #ffffff;
     font-family: "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 }
@@ -19,4 +19,13 @@ body {
 a, a:visited {
 
     color: #fff200;
+}
+
+body.custom-background {
+    
+    background-color: #000000;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
 }

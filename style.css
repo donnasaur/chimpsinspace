@@ -159,6 +159,8 @@ div.menunav > .menunav-next a {
 	height: 100%;
 }
 
+/* Comic Menu Item */
+
 li#menu-item-48 {
 
     top: 0;
@@ -173,6 +175,7 @@ li#menu-item-48 {
     background: url('images/sprites.png') 0 0 no-repeat;
 }
 
+/* Archive Menu Item */
 
 li#menu-item-60 {
 
@@ -188,11 +191,12 @@ li#menu-item-60 {
     background: url('images/sprites.png') -103px  0 no-repeat;
 }
 
+/* About Menu Item */
 
 li#menu-item-49 {
 
     top: 0;
-    left: 140px; 
+    left: 261px; 
 
     width: 103px;
     height: 32px;
@@ -202,3 +206,20 @@ li#menu-item-49 {
 
     background: url('images/sprites.png') -247px  0 no-repeat;
 }
+
+/* Store Menu Item */
+
+li#menu-item-62 {
+
+    top: 0;
+    left: 300px; 
+
+    width: 97px;
+    height: 32px;
+}
+
+#menu-item-62 a {
+
+    background: url('images/sprites.png') -363px  0 no-repeat;
+}
+

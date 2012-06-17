@@ -53,3 +53,54 @@ body.custom-background {
     display: none;
 }
 
+#menubar-wrapper {
+
+    text-transform: none;
+    background: transparent;
+}
+
+menu-sections ul, #menu-sections li, #menu-sections a {
+    
+    display: block;
+    position: relative;
+}
+
+#menu-sections ul {
+
+	height: 100px;
+	width: 600px;
+	
+	margin: 0 auto 0 auto;
+}
+
+#menu-sections li {
+
+	position: absolute;
+	
+	z-index: 1;
+}
+
+#menu-sections a {
+
+    font-size: 0;
+	color: transparent;
+	
+	width: 100%;
+	height: 100%;
+}
+
+#menu-item-60 li {
+
+    top: 0;
+    left: 0;
+
+    width: 94px;
+    height: 32px;
+}
+
+#menu-item-60 li a {
+
+    background: url('images/sprites.png') 0 0 no-repeat;
+}
+
+

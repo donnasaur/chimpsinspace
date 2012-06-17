@@ -79,6 +79,11 @@ body.custom-background {
     margin: 10px auto;
 }
 
+div.menunav {
+
+    float: none;
+}
+
 div.menunav > .menunav-rss {
     
     display: none;

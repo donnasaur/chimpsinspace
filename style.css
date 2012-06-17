@@ -305,7 +305,7 @@ div.nav > div.nav-previous {
 
     float: left;
 
-    margin: 70px;
+    margin: 0 0 0 70px;
 
     width: 23px;
     height: 24px;
@@ -314,6 +314,34 @@ div.nav > div.nav-previous {
 div.nav > div.nav-previous a {
 
     background: url('images/sprites.png') 0px -70px no-repeat;
+}
+
+div.nav > div.nav-last {
+
+    float: right;
+
+    width: 43px;
+    height: 24px;
+}
+
+div.nav > div.nav-last a {
+
+    background: url('images/sprites.png') -101px -70px no-repeat;
+}
+
+div.nav > div.nav-next {
+
+    float: right;
+
+    margin: 0 70px 0 0;
+
+    width: 23px;
+    height: 24px;
+}
+
+div.nav > div.nav-next a {
+
+    background: url('images/sprites.png') -28px -70px no-repeat;
 }
 
 div#sidebar-left {

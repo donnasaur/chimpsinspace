@@ -82,7 +82,7 @@ body.custom-background {
     background: transparent;
 
     height: 31px;
-    margin: 10px auto;
+    margin: 25px auto 20px auto;
 }
 
 div.menunav {
@@ -272,7 +272,7 @@ div.nav {
     width: 600px;
     height: 24px;
 
-    margin: 13px 0 0 0;
+    margin: 17px 0 0 0;
 }
 
 div.nav a {
@@ -364,6 +364,7 @@ div.nav > div.nav-last a:hover {
     background: url('images/sprites.png') -101px -96px no-repeat;
 }
 
+/*
 div#sidebar-left {
 
     display: none;
@@ -378,3 +379,4 @@ div#comment-wrapper {
 
     display: none;
 }
+*/

@@ -385,6 +385,14 @@ div.post-content {
     width: 570px;
 }
 
+div.page { 
+
+    width: 600px;
+    background: #ffc20e;
+
+    padding: 1px;
+}
+
 div#comment-wrapper {
 
     display: none;

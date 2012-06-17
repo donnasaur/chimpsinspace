@@ -260,6 +260,36 @@ div#comic-wrap {
     padding: 15px 0 12px 0;
 }
 
+div.nav {
+ 
+    width: 600px;
+    height: 32px;
+
+    margin: 5px 0 0 0;
+}
+
+div.nav a {
+
+    display: block;
+
+    font-size: 0;
+    color: transparent:
+
+    width: 100%;
+    height: 100%;
+}
+
+div.nav-first {
+
+    width: 43px;
+    height: 24px;
+}
+
+div.nav-first a {
+
+    background: url('images/sprites.png') -55px -70px no-repeat;
+}
+
 div#sidebar-left {
 
     display: none;

@@ -66,6 +66,8 @@ body.custom-background {
 
     float: none;
     width: 462px;
+
+    margin: 0 auto;
 }
 
 .menu ul li a {
@@ -106,6 +108,7 @@ div.menunav > .menunav-prev {
 
     float: left;
     width: 23px;
+    height: 24px;
 }
 
 div.menunav > .menunav-prev a {

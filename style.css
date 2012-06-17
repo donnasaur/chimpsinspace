@@ -102,7 +102,7 @@ body.custom-background {
 	height: 100%;
 }
 
-#menu-item-48 li {
+li#menu-item-48 {
 
     top: 0;
     left: 0;
@@ -111,7 +111,7 @@ body.custom-background {
     height: 32px;
 }
 
-#menu-item-60 li a {
+#menu-item-60 a {
 
     background: url('images/sprites.png') 0 0 no-repeat;
 }

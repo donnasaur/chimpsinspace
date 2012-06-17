@@ -273,19 +273,19 @@ div.nav a {
     display: block;
 
     font-size: 0;
-    color: transparent:
+    color: transparent;
 
     width: 100%;
     height: 100%;
 }
 
-div.nav-first {
+div.nav > div.nav-first {
 
     width: 43px;
     height: 24px;
 }
 
-div.nav-first a {
+div.nav > div.nav-first a {
 
     background: url('images/sprites.png') -55px -70px no-repeat;
 }

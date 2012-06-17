@@ -65,6 +65,10 @@ body.custom-background {
     position: relative;
 }
 
+.menu ul li a {
+
+    padding: 0 0 0 0;
+}
 
 #menubar-wrapper {
 
@@ -73,6 +77,21 @@ body.custom-background {
 
     height: 32px;
     margin: 10px auto;
+}
+
+div.menunav > .menunav-rss {
+    
+    display: none;
+}
+
+div.menunav > .menunav-prev {
+
+    float: left;
+}
+
+div.menunav > .menunav-next {
+
+    float: right;
 }
 
 #menu-sections ul, #menu-sections li, #menu-sections a {

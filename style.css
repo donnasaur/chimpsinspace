@@ -38,9 +38,17 @@ body.custom-background {
 #header {
 
     width: 600px;
+    background: url('images/title.png');
 }
 
 #header h1 a {
 
-    width: 600px;
+    display: block;
+    font-size: 0;
 }
+
+#header .description {
+
+    display: none;
+}
+

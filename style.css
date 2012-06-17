@@ -272,7 +272,7 @@ div.nav {
     width: 600px;
     height: 24px;
 
-    margin: 17px 0 0 0;
+    margin: 17px 0 10px 0;
 }
 
 div.nav a {
@@ -370,10 +370,12 @@ div#sidebar-left {
     display: none;
 }
 
-div#subcontent-wrapper {
+div.post { 
 
     width: 600px;
     background: #ffc20e;
+
+    padding: 1px;
 }
 
 div.post-content {

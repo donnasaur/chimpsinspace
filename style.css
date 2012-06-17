@@ -37,9 +37,9 @@ body.custom-background {
 
 #header {
 
-    width: 600px;
-    height: 145px;
-    background: url('images/sprites.png') 0 130px no-repeat;
+    width: 452px;
+    height: 154px;
+    background: url('images/sprites.png') 0 -120px no-repeat;
 }
 
 #header h1 a {

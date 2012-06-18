@@ -256,8 +256,7 @@ li#menu-item-26 {
 
 div#comic-wrap {
 
-    background: #ffc20e;
-    padding: 15px 0 12px 0;
+    background: #ffffff;
 }
 
 div#content-wrapper > div#subcontent-wrapper > div#content {
@@ -384,7 +383,6 @@ div.post-content {
 
     background: #ffffff;
     margin: 15px;
-    width: 564px;
 
     color: #000000;
     font-size: 13px;

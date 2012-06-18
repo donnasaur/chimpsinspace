@@ -464,6 +464,49 @@ div.social-send-me-mail {
 
 a.social-send-me-mail {
 
-    background: url('images/sprites.png') -149px -72px no-repeat; 
+    background: url('images/sprites.png') -147px -72px no-repeat; 
 }
+
+div.social-share-on-twitter {
+    
+    top: 0;
+    left: 25px;
+
+    height: 25px;
+    width: 25px;
+}
+
+a.social-share-on-twitter {
+
+    background: url('images/sprites.png') -172px -72px no-repeat; 
+}
+
+div.social-share-on-facebook {
+    
+    top: 0;
+    left: 50px;
+
+    height: 25px;
+    width: 25px;
+}
+
+a.social-share-on-facebook {
+
+    background: url('images/sprites.png') -297px -72px no-repeat; 
+}
+
+div.social-subscribe {
+    
+    top: 0;
+    left: 75px;
+
+    height: 25px;
+    width: 25px;
+}
+
+a.social-subscribe {
+
+    background: url('images/sprites.png') -312px -72px no-repeat; 
+}
+
 

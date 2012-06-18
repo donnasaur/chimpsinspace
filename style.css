@@ -412,6 +412,11 @@ div.entry a, div.entry a:visited, div.entry a:link {
     color: #0072bc;
 }
 
+div.entry a:hover {
+
+    color: #c1272d;
+}
+
 div.entry {
 
     padding: 0 25px;

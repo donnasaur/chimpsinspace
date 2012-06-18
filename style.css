@@ -18,6 +18,11 @@ body {
 
 a, a:visited, a:link {
 
+    color: #ffc20e;
+}
+
+a:hover {
+
     color: #fff200;
 }
 

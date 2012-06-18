@@ -463,6 +463,8 @@ div.social-send-me-mail {
 
     height: 25px;
     width: 25px;
+
+    padding: 0 3px 0 0;
 }
 
 a.social-send-me-mail {
@@ -479,6 +481,8 @@ div.social-share-on-twitter {
 
     height: 25px;
     width: 25px;
+
+    padding: 0 3px 0 0;
 }
 
 a.social-share-on-twitter {
@@ -495,6 +499,8 @@ div.social-share-on-facebook {
 
     height: 25px;
     width: 25px;
+
+    padding: 0 3px 0 0;
 }
 
 a.social-share-on-facebook {
@@ -511,6 +517,8 @@ div.social-subscribe {
 
     height: 25px;
     width: 25px;
+
+    padding: 0 3px 0 0;
 }
 
 a.social-subscribe {

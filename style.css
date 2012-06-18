@@ -387,9 +387,8 @@ div.post-info {
 div.post-content {
 
     background: #ffffff;
-    margin: 15px;
-    
-    padding: 0;
+        
+    padding: 10px  0;
     width: 600px;
 
     color: #000000;

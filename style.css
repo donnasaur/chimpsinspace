@@ -433,9 +433,9 @@ div#footer {
 div#sidebar-blog.customsidebar {
 
     display: block;
-    position: absolute;
+    position: relative;
 
-    top: 1079px;
+    top: -40px;
     
     margin: 0 auto;
 

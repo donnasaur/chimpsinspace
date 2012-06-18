@@ -172,7 +172,7 @@ div.menunav > .menunav-next a:hover {
 
 /* Comic Menu Item */
 
-li#menu-item-48 {
+li#menu-item-23 {
 
     top: 0;
     left: 5px;
@@ -181,19 +181,19 @@ li#menu-item-48 {
     height: 32px;
 }
 
-#menu-item-48 a {
+#menu-item-23 a {
 
     background: url('images/sprites.png') 0 0 no-repeat;
 }
 
-#menu-item-48 a:hover {
+#menu-item-23 a:hover {
 
     background: url('images/sprites.png') 0 -37px no-repeat;
 }
 
 /* Archive Menu Item */
 
-li#menu-item-60 {
+li#menu-item-24 {
 
     top: 0;
     left: 108px; 
@@ -202,19 +202,19 @@ li#menu-item-60 {
     height: 32px;
 }
 
-#menu-item-60 a {
+#menu-item-24 a {
 
     background: url('images/sprites.png') -103px  0 no-repeat;
 }
 
-#menu-item-60 a:hover {
+#menu-item-24 a:hover {
 
     background: url('images/sprites.png') -103px -37px no-repeat;
 }
 
 /* About Menu Item */
 
-li#menu-item-49 {
+li#menu-item-25 {
 
     top: 0;
     left: 253px; 
@@ -223,19 +223,19 @@ li#menu-item-49 {
     height: 32px;
 }
 
-#menu-item-49 a {
+#menu-item-25 a {
 
     background: url('images/sprites.png') -247px  0 no-repeat;
 }
 
-#menu-item-49 a:hover {
+#menu-item-25 a:hover {
 
     background: url('images/sprites.png') -247px  -37px no-repeat;
 }
 
 /* Store Menu Item */
 
-li#menu-item-62 {
+li#menu-item-26 {
 
     top: 0;
     left: 371px; 
@@ -244,12 +244,12 @@ li#menu-item-62 {
     height: 32px;
 }
 
-#menu-item-62 a {
+#menu-item-26 a {
 
     background: url('images/sprites.png') -363px  0 no-repeat;
 }
 
-#menu-item-62 a:hover {
+#menu-item-26 a:hover {
 
     background: url('images/sprites.png') -363px  -37px no-repeat;
 }

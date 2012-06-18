@@ -421,7 +421,7 @@ div#comment-wrapper {
    /* For IE 8 */
    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#636363')";
    /* For IE 5.5 - 7 */
-   filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#636363)";
+   filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#636363');
 }
 
 div#footer {
@@ -429,3 +429,41 @@ div#footer {
     font-size: 12px;
     margin: 15px 0;
 }
+
+div#sidebar-blog.customsidebar {
+
+    display: block;
+    position: absolute;
+
+    top: 1079px;
+    left: 630px;
+
+    width: 105px;
+    height: 25px;
+}
+
+div#sidebar-blog.customsidebar a {
+
+    display: block;
+
+    font-size: 0;
+    padding: 0;
+
+    height: 100%;
+    width: 100%;
+}
+
+div.social-send-me-mail {
+    
+    top: 0;
+    left: 0;
+
+    height: 25px;
+    width: 25px;
+}
+
+a.social-send-me-mail {
+
+    background: url('images/sprites.png') -149px -72px no-repeat; 
+}
+

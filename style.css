@@ -409,7 +409,7 @@ div.entry a, div.entry a:visited, div.entry a:link {
 
 div.entry {
 
-    padding: 20px 10px;
+    padding: 0 25px;
 }
 
 div#comment-wrapper {

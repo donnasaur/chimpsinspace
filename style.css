@@ -379,10 +379,18 @@ div#blogheader {
     display: none;
 }
 
+div.post-info {
+
+    padding: 0;
+}
+
 div.post-content {
 
     background: #ffffff;
     margin: 15px;
+    
+    padding: 0;
+    width: 600px;
 
     color: #000000;
     font-size: 13px;

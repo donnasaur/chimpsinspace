@@ -436,9 +436,10 @@ div#sidebar-blog.customsidebar {
     position: absolute;
 
     top: 1079px;
-    left: 630px;
+    
+    margin: 0 auto;
 
-    width: 105px;
+    width: 112px;
     height: 25px;
 }
 

@@ -445,6 +445,7 @@ div#sidebar-blog.customsidebar {
 div#sidebar-blog.customsidebar a {
 
     display: block;
+    position: relative;
 
     font-size: 0;
     padding: 0;
@@ -455,6 +456,8 @@ div#sidebar-blog.customsidebar a {
 
 div.social-send-me-mail {
     
+    float: left;
+
     top: 0;
     left: 0;
 
@@ -469,6 +472,8 @@ a.social-send-me-mail {
 
 div.social-share-on-twitter {
     
+    float: left;
+
     top: 0;
     left: 25px;
 
@@ -478,11 +483,13 @@ div.social-share-on-twitter {
 
 a.social-share-on-twitter {
 
-    background: url('images/sprites.png') -172px -72px no-repeat; 
+    background: url('images/sprites.png') -174px -72px no-repeat; 
 }
 
 div.social-share-on-facebook {
     
+    float: left;
+
     top: 0;
     left: 50px;
 
@@ -497,6 +504,8 @@ a.social-share-on-facebook {
 
 div.social-subscribe {
     
+    float: left;
+
     top: 0;
     left: 75px;
 

@@ -391,7 +391,6 @@ div.post-content {
 div.page { 
 
     width: 600px;
-    background: #ffc20e;
    
     color: #000000;
 }
@@ -403,7 +402,7 @@ div.entry a, div.entry a:visited, div.entry a:link {
 
 div.entry {
 
-    padding: 0 10px;
+    padding: 20px 10px;
 }
 
 div#comment-wrapper {
